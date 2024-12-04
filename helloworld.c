@@ -3,6 +3,6 @@
 int main(void)
 {
     // echos the message "Hello World" to user
-    printf("Hello World!\n");
+    printf("Hello world!\n");
     return 0;
 }
